@@ -257,5 +257,22 @@
                 "description": "I am responsible for the development of the website of the Toledo City Sports Center (Megadome) and also for the IT Support."
             }
         ]
-    }
+    },
+    "blogs": [
+        {
+            "id": "1",
+            "title": "My first blog",
+            "content": "This is my first blog",
+            "date": "2021-10-01",
+            "user_id": "1"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "name": "sample user",
+            "email": "sample@gmail.com",
+            "password": "12345678"
+        }
+    ]
 }
